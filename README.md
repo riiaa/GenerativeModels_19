@@ -1,19 +1,4 @@
-# Repositorio template para un workshop en RIIAA '19
-
-Este repositorio de github contiene material para un workshop plantilla dentro de la [RIIAA '19](www.riiaa.org). Para utilizarlo en tu propio taller, sigue a la siguiente sección. Nunca has usado github o markdown o jupyter/colab?
-Hay muchas guías en línea para usar estas tecnologías, algunas recomendaciones:
-* Github: https://guides.github.com/activities/hello-world/.
-* Markdown: https://guides.github.com/features/mastering-markdown/.
-* Jupyer notebooks: https://jupyter.org/, https://nbviewer.jupyter.org/github/jupyter/notebook/tree/master/docs/source/examples/Notebook/, https://colab.research.google.com.
-
-Mas dudas?, escríbele a los organizadores :) o pon un [github issue](https://help.github.com/en/articles/creating-an-issue).
-
-## Cómo usarlo para mi propio taller?
-
-1. Crea tu propio [github repo](https://help.github.com/en/articles/create-a-repo).
-2. Clona este [repo](https://help.github.com/en/articles/cloning-a-repository).
-3. Copia los archivos a tu repo, elimina los archivos que no sean necesario (hay algunos de ejemplo).
-4. Edita y llena el repo con datos/código/notebooks y un README.md especifico para tu taller.
+# Modelos generativos profundos (VAE/GAN) @ RIIAA '19
 
 ## Organización del repositorio
 
