@@ -4,15 +4,15 @@
 
 La estructura está inspirado en una versión lite de [cookie cutter data science project](https://drivendata.github.io/cookiecutter-data-science/):
 
-* **data/**: folder de datos para tu taller. Es recomendable enfocarse en un dataset o dos durante el workshop (vs varios), asi los talleristas podrán profundizar en aspectos específico de los datos y después enfocar su atención a la parte algorítmica/teoria del taller.
+* **data/**: folder de datos para tu taller. Es recomendable enfocarse en un dataset o dos durante el workshop (vs varios), así los talleristas podrán profundizar en aspectos específicos de los datos y después enfocar su atención a la parte algorítmica/teoría del taller.
 * **code/**: funciones de utilidad para usar en los notebooks.
 * **notebook/**: jupyter notebooks que se pueden lanzar en colab. Enumera los notebook en orden de uso.
-* **media/**: imagenes para usar en tus notebooks y repo.
+* **media/**: imágenes para usar en tus notebooks y repo.
 * **environment.yml**: archivos anaconda para replicar el software stack localmente.
 * **README.md**: archivo markdown de entrada para la pagina y tu taller.
 
 ## Mejoras? sugerencias?
-Manda un [pull request](https://help.github.com/en/articles/about-pull-requests), lo evaluaremos, empezaremos una discusion y si es buena idea lo incorporaremos.
+Manda un [pull request](https://help.github.com/en/articles/about-pull-requests), lo evaluaremos, empezaremos una discusión y si es buena idea lo incorporaremos.
 
 ## Instrucciones para estudiantes
 
